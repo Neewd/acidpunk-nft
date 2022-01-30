@@ -73,7 +73,7 @@ const Navbar = () => {
                 <div className="flex-shrink-0 flex items-center">
                     { /* HERE IS THE LOGO */ } 
                     <p className='text-2xl font-semibold'>
-                        RNFT
+                        ElrondStage
                     </p>
                 </div>
                 <div className="hidden sm:ml-6 sm:flex sm:space-x-8">

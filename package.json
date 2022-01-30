@@ -1,5 +1,5 @@
 {
-  "name": "rock-dapp",
+  "name": "elrondstage",
   "private": true,
   "scripts": {
     "dev": "next dev",

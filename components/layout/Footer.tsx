@@ -7,7 +7,9 @@ const Footer = () => {
             <p className="font-semibold">
                 Made with
             </p>
-            <HeartIcon className="w-4 h-4 text-red-700 mx-1"/>
+            <span className='mx-1'> 
+                🤘  
+            </span>
             <p className="font-semibold">
                 by the Rockstars Community
             </p>
