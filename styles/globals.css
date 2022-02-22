@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.black-trapezoid {
+    clip-path: polygon(0 0, 100% 32%, 100% 100%, 0% 100%);
+    width: 49px;
+    height: 250px;
+}
