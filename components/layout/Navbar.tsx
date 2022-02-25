@@ -66,11 +66,10 @@ const Navbar = () => {
       }
     }
 
-
     return (
         <>          
           <header>
-            <Popover className="relative bg-black">
+            <Popover className="relative bg-darkGrey">
               <div className="flex justify-between items-center max-w-7xl mx-auto px-4 py-6 sm:px-6 md:justify-start md:space-x-10 lg:px-8">
                 <div className="flex justify-start lg:w-0 lg:flex-1">
                   <a href="#">
